@@ -1,3 +1,0 @@
-[submodule "library-a"]
-	path = library-a
-	url = https://github.com/jasumoi/so-example-library-a.git
