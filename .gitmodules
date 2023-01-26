@@ -1,0 +1,3 @@
+[submodule "library-b"]
+	path = library-b
+	url = https://github.com/jasumoi/so-example-library-b.git
